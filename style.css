@@ -1,0 +1,79 @@
+@media screen and (min-width: 601px){
+	html, body {
+	  height: 100%;
+	}
+	
+	body {
+		font-family: 'Courier New', Courier, monospace;
+	  text-align: center;
+	  background-image: url('oracao.jpg');
+	  background-size: cover;
+	  background-position: center;
+	  background-repeat: no-repeat;
+		display: flex;
+	  flex-direction: column;
+	  justify-content: center;
+	  align-items: center;
+		margin: 0;
+	}
+	
+
+
+	h1, .convite, button p{
+	  color: white;
+	}
+
+	h1{
+		font-size: 3em;
+		margin-bottom: 0;
+	}
+
+	.convite, button p{
+		font-size: 2em;
+	}
+	
+	.convite{
+		margin-bottom: 0;
+	}
+	
+	#versiculo {
+	  margin: 20px 20px 0 20px;
+	  font-size: 2.5em;
+	  font-style: italic;
+		font-weight: bold;
+		color: white;
+	}
+	
+	#btn {
+	  background-color: transparent;
+	  color: white;
+	  padding: 5px 10px;
+	  border: 2px solid white;
+	  border-radius: 5px;
+	  cursor: pointer;
+	  font-weight: bold;
+		margin-bottom: 10px;
+	}
+	
+	button p{
+		font-weight: bold;
+		font-family: 'Courier New', Courier, monospace;
+		margin: 2px;
+	}
+
+	.ministerio{
+		font-weight: bold;
+		color: white;
+  	font-size: 2em;
+		margin-top: 10px;
+	}
+
+	.mensagem{
+		display: flex;
+		margin-top: 0;
+		margin-bottom: 10px;
+		font-weight: bold;
+		color: white;
+		font-size: 2.5em;
+	}
+}
