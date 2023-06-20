@@ -6,7 +6,7 @@
 	body {
 		font-family: 'Courier New', Courier, monospace;
 	  text-align: center;
-	  background-image: url('oracao.jpg');
+	  background-image: url('oracao3.jpg');
 	  background-size: cover;
 	  background-position: center;
 	  background-repeat: no-repeat;
@@ -16,11 +16,11 @@
 	  align-items: center;
 		margin: 0;
 	}
-	
+
 
 
 	h1, .convite, button p{
-	  color: white;
+	  color: rgb(255, 255, 255);
 	}
 
 	h1{
@@ -75,5 +75,20 @@
 		font-weight: bold;
 		color: white;
 		font-size: 2.5em;
+	}
+	.imgInstagram{
+		width: 30px;
+		height: 30px;
+	}	
+	.main-footer{
+		background-color: #000;
+		opacity: 0.8;
+		display: flex;
+		justify-content: center;
+		width: 100%;
+	
+	}
+	.footer-instagram {
+		color: white;	
 	}
 }
