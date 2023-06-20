@@ -80,14 +80,6 @@
 		width: 30px;
 		height: 30px;
 	}	
-	.main-footer{
-		background-color: #000;
-		opacity: 0.8;
-		display: flex;
-		justify-content: center;
-		width: 100%;
-	
-	}
 	.footer-instagram {
 		color: white;	
 	}
