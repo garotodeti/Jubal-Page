@@ -20,7 +20,7 @@
 
 
 	h1, .convite, button p{
-	  color: rgb(255, 255, 255);
+	  color: #443113;
 	}
 
 	h1{
@@ -41,14 +41,14 @@
 	  font-size: 2.5em;
 	  font-style: italic;
 		font-weight: bold;
-		color: white;
+		color: #443113;
 	}
 	
 	#btn {
 	  background-color: transparent;
-	  color: white;
+	  color: #443113;
 	  padding: 5px 10px;
-	  border: 2px solid white;
+	  border: 2px solid #443113;
 	  border-radius: 5px;
 	  cursor: pointer;
 	  font-weight: bold;
@@ -63,7 +63,7 @@
 
 	.ministerio{
 		font-weight: bold;
-		color: white;
+		color: #443113;
   	font-size: 2em;
 		margin-top: 10px;
 	}
@@ -73,14 +73,15 @@
 		margin-top: 0;
 		margin-bottom: 10px;
 		font-weight: bold;
-		color: white;
+		color: #443113;
 		font-size: 2.5em;
 	}
 	.imgInstagram{
 		width: 60px;
 		height: 60px;
 	}	
+
 	.footer-instagram {
-		color: white;	
+		color: rgb(253, 253, 253);	
 	}
 }
